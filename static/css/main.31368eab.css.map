@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAIA,sBAHE,iBAAmB,CAMpB,iBAFC,gBAAkB,CAIpB,WACE,UAAY","file":"static/css/main.31368eab.css","sourcesContent":["form {\n  margin-bottom: 2em;\n}\n\n.App .form-group {\n  margin-right: 2em;\n  margin-bottom: 2em;\n}\n\n.container {\n  padding: 5%;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
